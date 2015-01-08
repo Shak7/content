@@ -91,11 +91,21 @@ permalink: /SampleApps.htm
       <p><a class="btn btn-default" href="http://msdn.microsoft.com/en-us/library/windows/desktop/ms737889(v=vs.85).aspx" role="button">View details &raquo;</a></p>
     </div>
     <div class="col-md-4">
+<<<<<<< HEAD
       <h2>Forwarders and Stubs</h2>
       <p>Learn about Forwarders and Stubs for Win32 APIs which have move or are missing from the Windows image.</p>
       <p><a class="btn btn-default" href="Forwarders.htm" role="button">View details &raquo;</a></p>
     </div>
     <div class="col-md-4">
+=======
+      <h2>IO Shield with Bluetooth and Button</h2>
+	  <span class="label label-info">New</span>
+      <p>Learn how to use the DFRobot IO Expansion Shield V7 with Bluetooth and Button.</p>
+      <p><a class="btn btn-default" href="IoExpansionShieldV7BluetoothBeeButton.htm" role="button">View details &raquo;</a></p>
+    </div>
+    <!-- Node.js support is temporarily unavailable. 
+    div class="col-md-4">
+>>>>>>> Expansion ShieldV7 Serial Bluetooth Button
       <h2>NodeJS</h2>
       <p>Learn to run node.js on a galileo and call APIs from a javscript file.</p>
       <p><a class="btn btn-default" href="NodeJS.htm" role="button">View details &raquo;</a></p>
